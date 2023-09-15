@@ -73,3 +73,5 @@ export type Button = {
   label: string;
   link: string;
 };
+
+export type Uni = any;
